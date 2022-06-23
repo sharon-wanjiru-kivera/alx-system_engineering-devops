@@ -1,1 +1,1 @@
-this is a comment
+This is a read me for shell permissi
